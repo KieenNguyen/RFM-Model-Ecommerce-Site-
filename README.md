@@ -1,9 +1,9 @@
 # RFM-Model-Ecommerce-Site:
-
+*All the details in file 
 ### 🎯 PROJECT GOAL:
 This project focus on **Customer clustering by RFM** to suggest the best promotion strategy for the firm
 
-### 👉 KEY FINDING:
+### 👉 KEY FINDING: 
 - Currently, the company has more than 60% of customers in the ***At risk Customer***. 
 - The ***Promising Customer*** group accounts for just over 20% but contributes the most to sales (over $960 million)
 - ***Mobile, Table and Fashion*** are the product groups that the company can focus on because all of the above product groups have stable revenue.
