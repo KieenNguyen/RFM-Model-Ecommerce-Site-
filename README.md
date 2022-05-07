@@ -1,5 +1,5 @@
 # RFM-Model-Ecommerce-Site:
-*All the details in file Group Project - Group 333.pdf* 
+*All the details in file "Group Project - Group 333.pdf"* 
 ### 🎯 PROJECT GOAL:
 This project focus on **Customer clustering by RFM** to suggest the best promotion strategy for the firm
 
